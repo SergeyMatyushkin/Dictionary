@@ -1,4 +1,4 @@
-package com.example.dictionary.viewmodel
+package com.example.dictionary.view.viewmodel
 
 import io.reactivex.Observable
 
