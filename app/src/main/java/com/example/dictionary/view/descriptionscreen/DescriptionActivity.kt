@@ -23,6 +23,7 @@ import com.example.dictionary.utils.ui.AlertDialogFragment
 import com.squareup.picasso.Callback
 import com.squareup.picasso.Picasso
 
+
 class DescriptionActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityDescriptionBinding
